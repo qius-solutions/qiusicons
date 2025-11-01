@@ -1,0 +1,26 @@
+{
+  "name": "@qius/qiusicons",
+  "version": "6.0.1",
+  "description": "QiusIcons - Icon library powered by Qius Solutions",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qius-solution/qiusicons.git"
+  },
+  "main": "primeicons.css",
+  "style": "primeicons.css",
+  "files": [
+    "primeicons.css",
+    "fonts/",
+    "LICENSE",
+    "README.md"
+  ],
+  "keywords": [
+    "Icon"
+  ],
+  "author": "Qius Solutions <qius.solutions@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/qius-solution/qiusicons/issues"
+  },
+  "homepage": "https://github.com/qius-solution/qiusicons#readme"
+}
