@@ -1,14 +1,40 @@
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![npm version](https://badge.fury.io/js/primeicons.svg)](https://badge.fury.io/js/primeicons)
-[![npm downloads](https://img.shields.io/npm/dm/primeicons.svg)](https://www.npmjs.com/package/primeicons)
-[![Discord Chat](https://img.shields.io/discord/557940238991753223.svg?color=7289da&label=chat&logo=discord)](https://discord.gg/gzKFYnpmCY)
+# QiusIcons
+
+**QiusIcons** is a lightweight and modern icon library built on **QiusIcons** — easy to search, filter, and copy icon class names.
 
 ---
 
-![PrimeIcons Logo](https://www.primefaces.org/wp-content/uploads/2018/07/primeicons-logo.svg "PrimeIcons")
+## ⚡ Features
 
-Font Icon Library for Prime UI Libraries: [PrimeNG](https://www.primefaces.org/primeng/icons/) | [PrimeReact](https://www.primefaces.org/primereact/icons/) | [PrimeFaces](https://primefaces.org/showcase/icons.xhtml) | [PrimeVue](https://primefaces.org/primevue/icons) 
+* 🔍 Search and filter icons by name or category
+* 🌗 Light / Dark theme toggle with saved preference
+* 📋 One-click copy of icon class names
+* ⚡ Responsive and fast
 
 ---
 
-![Icons Preview](https://www.primefaces.org/wp-content/uploads/2022/09/primeicons-6-0-list.png "PrimeIcons")
+## 📦 Install
+
+```bash
+npm install @qius.solutions/qiusicons
+```
+
+Or explore the source on [GitHub](https://github.com/qius-solutions/qiusicons).
+
+Browse the package on [NPM](https://www.npmjs.com/package/@qius.solutions/qiusicons).
+
+---
+
+## 🖼️ Usage
+
+Include QiusIcons:
+
+```html
+<link rel="stylesheet" href="https://unpkg.com/qius.solutions/qiusicons/qiusicons.css">
+```
+
+Use icons like:
+
+```html
+<i class="pi pi-home"></i>
+```
