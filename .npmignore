@@ -1,4 +1,5 @@
 .DS_Store
-demo-files
-demo.html
+index.html
+index.css
+index.js
 selection.json
