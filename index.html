@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>QiusIcons - Icon Library</title>
+    <link rel="stylesheet" href="primeicons.css">
+    <link rel="stylesheet" href="index.css">
+    <script src="index.js" defer></script>
+</head>
+
+<body data-theme="dark">
+    <div class="container">
+        <header class="header">
+            <div class="header-top">
+                <div class="header-content">
+                    <h1>QiusIcons</h1>
+                    <p>Modern icon library for your projects</p>
+                </div>
+                <div class="theme-toggle" id="themeToggle">
+                    <div class="theme-option active" data-theme="dark">
+                        <i class="pi pi-moon"></i>
+                        <span>Dark</span>
+                    </div>
+                    <div class="theme-option" data-theme="light">
+                        <i class="pi pi-sun"></i>
+                        <span>Light</span>
+                    </div>
+                </div>
+            </div>
+            <div class="badge">
+                <span>261</span> icons available
+            </div>
+        </header>
+
+        <div class="controls">
+            <div class="search-box">
+                <i class="pi pi-search"></i>
+                <input type="text" id="searchInput" placeholder="Search icons... (e.g. home, user, cart)">
+            </div>
+
+            <div class="filter-tabs">
+                <button class="filter-tab active" data-filter="all">All</button>
+                <button class="filter-tab" data-filter="arrow">Arrows</button>
+                <button class="filter-tab" data-filter="social">Social</button>
+                <button class="filter-tab" data-filter="file">Files</button>
+                <button class="filter-tab" data-filter="ui">Interface</button>
+                <button class="filter-tab" data-filter="media">Media</button>
+            </div>
+        </div>
+
+        <div class="icon-grid" id="iconGrid"></div>
+
+        <div class="no-results" id="noResults" style="display: none;">
+            <i class="pi pi-search"></i>
+            <h3>No icons found</h3>
+            <p>Try searching with different terms</p>
+        </div>
+
+        <footer class="footer">
+            <p>QiusIcons • Icon Library • 2024</p>
+        </footer>
+    </div>
+
+    <div class="copied-notification" id="copiedNotification">
+        <i class="pi pi-check"></i> Name copied!
+    </div>
+</body>
+
+</html>
