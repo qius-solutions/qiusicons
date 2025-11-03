@@ -1,14 +1,14 @@
 @font-face {
-    font-family: 'primeicons';
+    font-family: 'qiusicons';
     font-display: block;
-    src: url('./fonts/primeicons.eot');
-    src: url('./fonts/primeicons.eot?#iefix') format('embedded-opentype'), url('./fonts/primeicons.woff2') format('woff2'), url('./fonts/primeicons.woff') format('woff'), url('./fonts/primeicons.ttf') format('truetype'), url('./fonts/primeicons.svg?#primeicons') format('svg');
+    src: url('./fonts/qiusicons.eot');
+    src: url('./fonts/qiusicons.eot?#iefix') format('embedded-opentype'), url('./fonts/qiusicons.woff2') format('woff2'), url('./fonts/qiusicons.woff') format('woff'), url('./fonts/qiusicons.ttf') format('truetype'), url('./fonts/qiusicons.svg?#qiusicons') format('svg');
     font-weight: normal;
     font-style: normal;
 }
 
 .pi {
-    font-family: 'primeicons';
+    font-family: 'qiusicons';
     speak: none;
     font-style: normal;
     font-weight: normal;
@@ -161,7 +161,7 @@
     content: "\e9eb";
 }
 
-.pi-prime:before {
+.pi-qius:before {
     content: "\e9ea";
 }
 

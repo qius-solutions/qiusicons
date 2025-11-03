@@ -2,7 +2,7 @@ const icons = [
     'eraser', 'stopwatch', 'verified', 'delete-left', 'hourglass', 'truck', 'wrench', 'microphone', 'megaphone',
     'arrow-right-arrow-left', 'bitcoin', 'file-edit', 'language', 'file-export', 'file-import', 'file-word',
     'gift', 'cart-plus', 'thumbs-down-fill', 'thumbs-up-fill', 'arrows-alt', 'calculator', 'sort-alt-slash',
-    'arrows-h', 'arrows-v', 'pound', 'prime', 'chart-pie', 'reddit', 'code', 'sync', 'shopping-bag', 'server',
+    'arrows-h', 'arrows-v', 'pound', 'qius', 'chart-pie', 'reddit', 'code', 'sync', 'shopping-bag', 'server',
     'database', 'hashtag', 'bookmark-fill', 'filter-fill', 'heart-fill', 'flag-fill', 'circle', 'circle-fill',
     'bolt', 'history', 'box', 'at', 'arrow-up-right', 'arrow-up-left', 'arrow-down-left', 'arrow-down-right',
     'telegram', 'stop-circle', 'stop', 'whatsapp', 'building', 'qrcode', 'car', 'instagram', 'linkedin', 'send',

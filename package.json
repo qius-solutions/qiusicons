@@ -1,16 +1,15 @@
 {
   "name": "@qius.solutions/qiusicons",
-  "version": "6.0.2",
+  "version": "6.0.3",
   "description": "QiusIcons - Icon library powered by Qius Solutions",
   "repository": {
     "type": "git",
     "url": "https://github.com/qius-solutions/qiusicons.git"
   },
-  "main": "primeicons.css",
-  "style": "primeicons.css", 
+  "main": "qiusicons.css",
+  "style": "qiusicons.css", 
   "keywords": [
     "icons",
-    "primeicons",
     "qiusicons",
     "ui",
     "design"

@@ -1,6 +1,6 @@
 # QiusIcons
 
-**QiusIcons** is a lightweight and modern icon library built on **PrimeIcons** — easy to search, filter, and copy icon class names.
+**QiusIcons** is a lightweight and modern icon library built on **QiusIcons** — easy to search, filter, and copy icon class names.
 
 ---
 
@@ -27,10 +27,10 @@ Browse the package on [NPM](https://www.npmjs.com/package/@qius.solutions/qiusic
 
 ## 🖼️ Usage
 
-Include PrimeIcons:
+Include QiusIcons:
 
 ```html
-<link rel="stylesheet" href="https://unpkg.com/primeicons/primeicons.css">
+<link rel="stylesheet" href="https://unpkg.com/qiusicons/qiusicons.css">
 ```
 
 Use icons like:
