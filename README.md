@@ -30,7 +30,7 @@ Browse the package on [NPM](https://www.npmjs.com/package/@qius.solutions/qiusic
 Include QiusIcons:
 
 ```html
-<link rel="stylesheet" href="https://unpkg.com/qiusicons/qiusicons.css">
+<link rel="stylesheet" href="https://unpkg.com/qius.solutions/qiusicons/qiusicons.css">
 ```
 
 Use icons like:
