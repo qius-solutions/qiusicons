@@ -1,0 +1,11 @@
+{
+  "outputDir": "./fonts",
+  "inputDir": "./raw-svg",
+  "name": "qiusicons",
+  "prefix": "pi",
+  "fontTypes": ["ttf", "woff", "woff2", "eot", "svg"],
+  "assetTypes": ["css", "html", "json"],
+  "normalize": true,
+  "descent": 0,
+  "fontHeight": 1000
+}
