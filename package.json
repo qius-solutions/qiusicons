@@ -1,6 +1,6 @@
 {
   "name": "@qius.solutions/qiusicons",
-  "version": "7.0.4",
+  "version": "7.0.5",
   "description": "QiusIcons - Icon library powered by Qius Solutions",
   "scripts": {
     "build:icons": "npx fantasticon --config fantasticon.config.json"
