@@ -5,6 +5,7 @@
   "prefix": "pi",
   "fontTypes": ["ttf", "woff", "woff2", "eot", "svg"],
   "assetTypes": ["css", "html", "json"],
-  "normalize": false,
-  "descent": 0
+  "normalize": true,
+  "descent": 0,
+  "fontHeight": 2000
 }
