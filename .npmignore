@@ -3,3 +3,8 @@ index.html
 index.css
 index.js
 selection.json
+package-lock.json
+fantasticon.config.json
+node_modules
+site-doc
+.gitignore
