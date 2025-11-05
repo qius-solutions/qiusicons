@@ -1,20 +1,21 @@
 @font-face {
     font-family: "qiusicons";
-    src: url("./qiusicons.ttf?1e2fab28a6bebc17176e799bc89a31d5") format("truetype"),
-        url("./qiusicons.woff?1e2fab28a6bebc17176e799bc89a31d5") format("woff"),
-        url("./qiusicons.woff2?1e2fab28a6bebc17176e799bc89a31d5") format("woff2"),
-        url("./qiusicons.eot?1e2fab28a6bebc17176e799bc89a31d5#iefix") format("embedded-opentype"),
-        url("./qiusicons.svg?1e2fab28a6bebc17176e799bc89a31d5#qiusicons") format("svg");
+    src: url("fonts/qiusicons.ttf") format("truetype"),
+        url("fonts/qiusicons.woff") format("woff"),
+        url("fonts/qiusicons.woff2") format("woff2"),
+        url("fonts/qiusicons.eot") format("embedded-opentype"),
+        url("fonts/qiusicons.svg") format("svg");
 }
 
-i[class^="pi-"]:before,
-i[class*=" pi-"]:before {
-    font-family: qiusicons !important;
+.pi {
+    font-family: 'qiusicons';
+    speak: none;
     font-style: normal;
-    font-weight: normal !important;
+    font-weight: normal;
     font-variant: normal;
     text-transform: none;
     line-height: 1;
+    display: inline-block;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
 }
