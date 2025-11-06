@@ -7,5 +7,5 @@
   "assetTypes": ["css", "html", "json"],
   "normalize": true,
   "descent": 0,
-  "fontHeight": 60
+  "fontHeight": 5000
 }
